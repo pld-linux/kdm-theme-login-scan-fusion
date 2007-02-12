@@ -2,7 +2,7 @@
 %define		_theme		login-scan-fusion
 
 Summary:	login-scan 'fusion' KDM theme
-Summary(pl):	Motyw KDM login-scan 'fusion'
+Summary(pl.UTF-8):   Motyw KDM login-scan 'fusion'
 Name:		kdm-theme-%{_theme}
 Version:	0.3.1
 Release:	2
@@ -20,7 +20,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 login-scan 'fusion' KDM Theme.
 
-%description -l pl
+%description -l pl.UTF-8
 Motyw KDM login-scan 'fusion'.
 
 %prep
