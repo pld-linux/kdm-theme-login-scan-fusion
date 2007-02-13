@@ -2,7 +2,7 @@
 %define		_theme		login-scan-fusion
 
 Summary:	login-scan 'fusion' KDM theme
-Summary(pl.UTF-8):   Motyw KDM login-scan 'fusion'
+Summary(pl.UTF-8):	Motyw KDM login-scan 'fusion'
 Name:		kdm-theme-%{_theme}
 Version:	0.3.1
 Release:	2
